@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+body{
+	background-color:yellow;
+	
+} 
+h1,h2{
+	text-align:center;
+}/*your css code here. If applicable */
